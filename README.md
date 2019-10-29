@@ -1,12 +1,12 @@
 # AboutMe
-#Work experience
+# Work experience
 2019- Internship, Webedia Movie Pro LLC
 2017-Present Employee, The Cake Box of Ridgefield, CT
 2015- Present Babysitter
-#Education
+# Education
 2015-2019- Ridgefield High School 
 Present-2023- Lehigh University
-#Extra Curriculars
+# Extra Curriculars
 Present-President of Dravo
 Present- Women in Business Club
 Present- Conservation Club
